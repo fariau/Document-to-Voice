@@ -2,3 +2,6 @@ streamlit
 edge-tts
 pypdf
 python-pptx
+pypdfium2
+pytesseract
+pillow
